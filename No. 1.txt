@@ -1,4 +1,0 @@
-1a. The difference is, a class is a set that assigns methods and variables in an object by defining them (in simple terms, it is a description of what the instantiation is),
-    while an instantiation of a class is an individual object created that abides by the methods and variables of its own class (basically, it is an object created abiding the characteristics of the class).
-    From the example, the classes would be the sale of the products 
-    its instantiations would be the salaries of the managers, office staff, and sales personnel. Because salaries are real
