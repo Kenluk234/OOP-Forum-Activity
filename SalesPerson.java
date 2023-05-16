@@ -51,7 +51,7 @@ public class SalesPerson {
 
         double total = 0;
         for (int i = 0; i < count; i++) {
-            total += salesHistory[i].getValue();
+            total += (salesHistory[i].getValue() * salesHistory[i].getQuantity());
         }
         return total;
     }
